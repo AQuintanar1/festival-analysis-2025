@@ -62,6 +62,14 @@ The festival similarity analysis produced a festival similarity CSV showing each
 
 I also created a festival similarity heatmap to show lineup overlap across all festival pairs.
 
+### Artist Network, Minimum Coappearance Threshold of 3
+
+![Artist Network Threshold 3](visuals/artist_network_threshold_3.png)
+
+### Festival Similarity Heatmap
+
+![Festival Similarity Heatmap](visuals/festival_similarity_heatmap.png)
+
 ## Initial Findings
 
 The artist network formed visible clusters, especially when filtering to artist pairs that appeared together at least two times. These clusters seemed to reflect festival level grouping and possible similarities in lineup style.
