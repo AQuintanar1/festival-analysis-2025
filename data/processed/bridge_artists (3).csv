@@ -1,0 +1,978 @@
+artist,betweenness,num_festivals,festival_names
+Fcukers,0.0345,6,"Coachella, EDC, Electric Forest, Hard Summer, Lollapalooza, Outside Lands"
+Tape B,0.0335,6,"Bonnaroo, EDC, Electric Forest, Hard Summer, Lightning in a Bottle, Lollapalooza"
+Interplanetary Criminal,0.0236,4,"Coachella, EDC, Electric Forest, Lightning in a Bottle"
+Levity,0.0187,4,"Bonnaroo, EDC, Lollapalooza, Outside Lands"
+Francis Mercier,0.0184,3,"Coachella, EDC, Lightning in a Bottle"
+Chase & Status,0.0166,3,"Coachella, EDC, Lollapalooza"
+Mau P,0.0164,3,"Coachella, EDC, Lollapalooza"
+Dom Dolla,0.0159,4,"Bonnaroo, EDC, Hard Summer, Lollapalooza"
+Sara Landry,0.0147,4,"Coachella, EDC, Electric Forest, Hard Summer"
+Sammy Virji,0.0131,5,"Bonnaroo, Coachella, Lightning in a Bottle, Lollapalooza, Outside Lands"
+Amaarae,0.013,4,"Coachella, Governors Ball, Lightning in a Bottle, Lollapalooza"
+Cloonee,0.012,3,"EDC, Electric Forest, Lollapalooza"
+Joey Valence & Brae,0.0115,4,"Bonnaroo, Electric Forest, Governors Ball, Lollapalooza"
+Ahmed Spins,0.011,3,"Coachella, EDC, Electric Forest"
+Beltran,0.011,3,"Coachella, EDC, Electric Forest"
+Vintage Culture,0.011,3,"Coachella, EDC, Electric Forest"
+Kilimanjaro,0.0105,3,"EDC, Hard Summer, Lightning in a Bottle"
+Daniel Allan,0.0102,3,"EDC, Hard Summer, Lollapalooza"
+DJ Gigola,0.0102,3,"Coachella, EDC, Hard Summer"
+YDG,0.0102,4,"Bonnaroo, EDC, Electric Forest, Hard Summer"
+Crankdat,0.0102,4,"Bonnaroo, EDC, Electric Forest, Hard Summer"
+Torren Foot,0.0102,3,"EDC, Hard Summer, Lollapalooza"
+Prospa,0.0102,3,"EDC, Hard Summer, Lollapalooza"
+Marlon Hoffstadt,0.0102,3,"EDC, Hard Summer, Lollapalooza"
+MARINA,0.0099,5,"Bonnaroo, Coachella, Governors Ball, Lollapalooza, Outside Lands"
+Dombresky,0.0088,3,"EDC, Electric Forest, Outside Lands"
+BLOND:ISH,0.0088,3,"EDC, Electric Forest, Outside Lands"
+Martin Garrix,0.0085,2,"EDC, Lollapalooza"
+ALLEYCVT,0.0084,2,"EDC, Lollapalooza"
+Hex Cougar,0.0084,2,"EDC, Lollapalooza"
+Of The Trees,0.008,3,"Bonnaroo, EDC, Electric Forest"
+AHEE,0.008,3,"Bonnaroo, EDC, Electric Forest"
+Walker & Royce,0.0078,3,"EDC, Hard Summer, Outside Lands"
+Gesaffelstein,0.0078,3,"EDC, Hard Summer, Outside Lands"
+Eli Brown,0.0069,2,"Coachella, EDC"
+Dennis Cruz,0.0068,2,"Coachella, EDC"
+Amelie Lens,0.0068,2,"Coachella, EDC"
+Disco Lines,0.0068,2,"Coachella, EDC"
+Alok,0.0068,2,"Coachella, EDC"
+Layton Giordani,0.0068,2,"Coachella, EDC"
+Artemas,0.0066,4,"Coachella, Governors Ball, Lollapalooza, Outside Lands"
+2hollis,0.0065,4,"Bonnaroo, Coachella, Lollapalooza, Outside Lands"
+Barry Can’t Swim,0.0065,4,"Bonnaroo, Electric Forest, Hard Summer, Lollapalooza"
+Salute,0.0063,3,"Coachella, Lightning in a Bottle, Lollapalooza"
+ARMNHMR,0.0062,2,"EDC, Outside Lands"
+Gorgon City,0.0056,2,"Bonnaroo, EDC"
+INZO,0.0055,2,"Bonnaroo, EDC"
+RL Grime,0.0055,2,"Bonnaroo, EDC"
+Max Styler,0.0055,2,"Bonnaroo, EDC"
+ATLiens,0.0055,2,"Bonnaroo, EDC"
+Clairo,0.0046,3,"Coachella, Governors Ball, Lollapalooza"
+T-Pain,0.0046,3,"Coachella, Governors Ball, Lollapalooza"
+Tyla,0.0046,3,"Bonnaroo, Coachella, Governors Ball"
+Jade Cicada,0.0043,3,"Bonnaroo, Electric Forest, Lightning in a Bottle"
+The Blessed Madonna,0.0038,3,"Hard Summer, Lightning in a Bottle, Lollapalooza"
+BigXthaPlug,0.0037,3,"Coachella, Governors Ball, Outside Lands"
+Role Model,0.0036,4,"Bonnaroo, Governors Ball, Lollapalooza, Outside Lands"
+Midnight Generation,0.0036,3,"Electric Forest, Lollapalooza, Outside Lands"
+Matt Champion,0.0036,4,"Bonnaroo, Governors Ball, Lollapalooza, Outside Lands"
+Ca7riel & Paco Amoroso,0.0036,3,"Coachella, Lollapalooza, Outside Lands"
+Royel Otis,0.0036,4,"Bonnaroo, Governors Ball, Lollapalooza, Outside Lands"
+Nimino,0.0036,3,"Electric Forest, Lollapalooza, Outside Lands"
+BUNT,0.0036,3,"Electric Forest, Lollapalooza, Outside Lands"
+Wallows,0.0036,4,"Bonnaroo, Governors Ball, Lollapalooza, Outside Lands"
+Still Woozy,0.0036,3,"Coachella, Lollapalooza, Outside Lands"
+Julie,0.0036,3,"Coachella, Lollapalooza, Outside Lands"
+John Summit,0.0035,3,"Bonnaroo, Lightning in a Bottle, Outside Lands"
+Riordan,0.0029,3,"EDC, Electric Forest, Hard Summer"
+ØTTA,0.0029,3,"EDC, Electric Forest, Hard Summer"
+Villager,0.0029,3,"EDC, Electric Forest, Hard Summer"
+Coco & Breezy,0.0024,2,"Coachella, Lightning in a Bottle"
+Wave to Earth,0.0024,3,"Bonnaroo, Governors Ball, Lollapalooza"
+Tinlicker,0.0024,2,"Coachella, Lightning in a Bottle"
+Olivia Rodrigo,0.0024,3,"Bonnaroo, Governors Ball, Lollapalooza"
+JPEGMAFIA,0.0024,3,"Bonnaroo, Governors Ball, Lollapalooza"
+Magdalena Bay,0.0021,2,"Lightning in a Bottle, Lollapalooza"
+Mary Droppinz,0.0021,2,"Lightning in a Bottle, Lollapalooza"
+Azzecca,0.0021,2,"Lightning in a Bottle, Lollapalooza"
+Ravyn Lenae,0.002,2,"Coachella, Lollapalooza"
+The Dare,0.002,2,"Coachella, Lollapalooza"
+Wisp,0.002,2,"Bonnaroo, Coachella"
+Djo,0.002,2,"Coachella, Lollapalooza"
+Ginger Root,0.002,2,"Bonnaroo, Coachella"
+Glorilla,0.002,2,"Bonnaroo, Coachella"
+Glass Beams,0.002,2,"Coachella, Lollapalooza"
+Maribou State,0.002,2,"Coachella, Lollapalooza"
+Beabadoobee,0.002,2,"Bonnaroo, Coachella"
+Jessie Murph,0.002,2,"Bonnaroo, Coachella"
+Nourished By Time,0.0019,3,"Governors Ball, Lollapalooza, Outside Lands"
+Benson Boone,0.0019,2,"Coachella, Governors Ball"
+Wasia Project,0.0019,3,"Governors Ball, Lollapalooza, Outside Lands"
+The Beaches,0.0019,2,"Coachella, Governors Ball"
+Black Party,0.0019,3,"Governors Ball, Lollapalooza, Outside Lands"
+Hozier,0.0018,3,"Bonnaroo, Governors Ball, Outside Lands"
+Glass Animals,0.0018,3,"Bonnaroo, Governors Ball, Outside Lands"
+Mannequin Pussy,0.0018,3,"Bonnaroo, Governors Ball, Outside Lands"
+INFEKT,0.0017,2,"EDC, Electric Forest"
+Fisher,0.0017,2,"EDC, Electric Forest"
+Jenna Shaw,0.0017,2,"EDC, Electric Forest"
+Dimension,0.0017,2,"EDC, Electric Forest"
+Wakyin,0.0017,2,"EDC, Electric Forest"
+Jon Casey,0.0017,2,"EDC, Electric Forest"
+Mochakk,0.0017,2,"EDC, Electric Forest"
+BROSA,0.0017,2,"EDC, Electric Forest"
+Maz,0.0017,2,"EDC, Electric Forest"
+Tiësto,0.0017,2,"EDC, Electric Forest"
+Mike Posner,0.0017,2,"EDC, Electric Forest"
+Liquid Stranger,0.0017,2,"EDC, Electric Forest"
+Ray Volpe,0.0017,2,"EDC, Electric Forest"
+Pocket,0.0017,2,"EDC, Electric Forest"
+Flipturn,0.0016,3,"Bonnaroo, Lollapalooza, Outside Lands"
+Hamdi,0.0014,2,"Electric Forest, Lightning in a Bottle"
+Hope Tala,0.0014,2,"Coachella, Outside Lands"
+Khruangbin,0.0014,2,"Electric Forest, Lightning in a Bottle"
+Overmono,0.0013,2,"Hard Summer, Lollapalooza"
+Airwolf Paradise,0.0013,2,"Hard Summer, Lollapalooza"
+Viperactive,0.0013,2,"Hard Summer, Lollapalooza"
+Orion Sun,0.0011,2,"Governors Ball, Lollapalooza"
+Jamie xx,0.0011,2,"Lightning in a Bottle, Outside Lands"
+Claude VonStroke,0.0011,2,"Lightning in a Bottle, Outside Lands"
+Floating Points,0.0011,2,"Hard Summer, Outside Lands"
+Girl Math,0.0011,2,"Lightning in a Bottle, Outside Lands"
+Young Miko,0.001,2,"Governors Ball, Lollapalooza"
+Justice,0.001,2,"Bonnaroo, Electric Forest"
+Zingara,0.001,2,"Bonnaroo, Electric Forest"
+Isabel LaRosa,0.001,2,"Governors Ball, Lollapalooza"
+Dogpark,0.001,2,"Governors Ball, Lollapalooza"
+Montell Fish,0.001,2,"Governors Ball, Lollapalooza"
+Eater,0.001,2,"Bonnaroo, Electric Forest"
+Alignment,0.0009,2,"EDC, Hard Summer"
+James Hype,0.0009,2,"EDC, Hard Summer"
+I Hate Models,0.0009,2,"EDC, Hard Summer"
+Nico Moreno,0.0009,2,"EDC, Hard Summer"
+it's murph,0.0009,2,"EDC, Hard Summer"
+Alex Chapman,0.0009,2,"EDC, Hard Summer"
+Annicka,0.0009,2,"EDC, Hard Summer"
+VNSSA,0.0009,2,"EDC, Hard Summer"
+Linska,0.0009,2,"EDC, Hard Summer"
+Adam Ten,0.0009,2,"EDC, Hard Summer"
+Deorro,0.0009,2,"EDC, Hard Summer"
+Narciss,0.0009,2,"EDC, Hard Summer"
+MALUGI,0.0009,2,"EDC, Hard Summer"
+Zoe Gitter,0.0009,2,"EDC, Hard Summer"
+Loco Dice,0.0009,2,"EDC, Hard Summer"
+Ben Sterling,0.0009,2,"EDC, Hard Summer"
+Funk Tribu,0.0009,2,"EDC, Hard Summer"
+Mita Gami,0.0009,2,"EDC, Hard Summer"
+Mt. Joy,0.0008,2,"Bonnaroo, Governors Ball"
+Bilmuri,0.0008,2,"Bonnaroo, Lollapalooza"
+Die Spitz,0.0008,2,"Bonnaroo, Governors Ball"
+The Creator,0.0008,2,"Bonnaroo, Governors Ball"
+The Lemon Twigs,0.0008,2,"Bonnaroo, Governors Ball"
+Tyler,0.0008,2,"Bonnaroo, Governors Ball"
+Remi Wolf,0.0008,2,"Bonnaroo, Lollapalooza"
+Gigi Perez,0.0008,2,"Bonnaroo, Lollapalooza"
+Bossman Dlow,0.0008,2,"Bonnaroo, Lollapalooza"
+Luke Combs,0.0008,2,"Bonnaroo, Lollapalooza"
+Alex Warren,0.0008,2,"Bonnaroo, Lollapalooza"
+Peekaboo,0.0006,2,"Hard Summer, Lightning in a Bottle"
+Hybrid Minds,0.0006,2,"Hard Summer, Lightning in a Bottle"
+Four Tet,0.0006,2,"Hard Summer, Lightning in a Bottle"
+Lexa Gates,0.0006,2,"Governors Ball, Outside Lands"
+Joy Orbison,0.0006,2,"Hard Summer, Lightning in a Bottle"
+Bou,0.0006,2,"Hard Summer, Lightning in a Bottle"
+Mersiv,0.0005,2,"Electric Forest, Hard Summer"
+Gordo,0.0005,2,"Electric Forest, Hard Summer"
+Vampire Weekend,0.0005,2,"Bonnaroo, Outside Lands"
+Claptone,0.0005,2,"Bonnaroo, Outside Lands"
+Destroy Boys,0.0005,2,"Bonnaroo, Outside Lands"
+Tyler The Creator,0.0004,2,"Lollapalooza, Outside Lands"
+Finneas,0.0004,2,"Lollapalooza, Outside Lands"
+Gracie Abrams,0.0004,2,"Lollapalooza, Outside Lands"
+Bleachers,0.0004,2,"Lollapalooza, Outside Lands"
+Mark Ambor,0.0004,2,"Lollapalooza, Outside Lands"
+Doechii,0.0004,2,"Lollapalooza, Outside Lands"
+Orla Gartland,0.0004,2,"Lollapalooza, Outside Lands"
+Alemeda,0.0004,2,"Lollapalooza, Outside Lands"
+Wunderhorse,0.0004,2,"Lollapalooza, Outside Lands"
+Vincent Lima,0.0004,2,"Lollapalooza, Outside Lands"
+Rebecca Black,0.0004,2,"Lollapalooza, Outside Lands"
+Fujii Kaze,0.0004,2,"Lollapalooza, Outside Lands"
+Klangkuenstler,0.0,1,Coachella
+Hey,0.0,1,Bonnaroo
+Korn,0.0,1,Lollapalooza
+Kitchen Dwellers,0.0,1,Bonnaroo
+Joe P,0.0,1,Lollapalooza
+Insane Clown Posse,0.0,1,Bonnaroo
+Ivan Cornejo,0.0,1,Coachella
+Kneecap,0.0,1,Coachella
+Judeline,0.0,1,Coachella
+Lady Gaga,0.0,1,Coachella
+Junior H,0.0,1,Coachella
+Junior Varsity,0.0,1,Lollapalooza
+Hanumankind,0.0,1,Coachella
+KATSEYE,0.0,1,Lollapalooza
+Isaiah Rashad,0.0,1,Lollapalooza
+Laila!,0.0,1,Lollapalooza
+Half Alive,0.0,1,Lollapalooza
+Landon Barker,0.0,1,Lollapalooza
+Landon Conrath,0.0,1,Lollapalooza
+Haai,0.0,1,Coachella
+Jimmy Eat World,0.0,1,Coachella
+Indo Warehouse,0.0,1,Coachella
+Infected Mushroom,0.0,1,Coachella
+Kraftwerk,0.0,1,Coachella
+Kickflip,0.0,1,Lollapalooza
+Ian,0.0,1,Lollapalooza
+Kumo 99,0.0,1,Coachella
+ISOxo,0.0,1,Lollapalooza
+Jack’s Mannequin,0.0,1,Bonnaroo
+Hot Mulligan,0.0,1,Bonnaroo
+Keshi,0.0,1,Coachella
+Horsegiirl,0.0,1,Coachella
+Jade LeMac,0.0,1,Lollapalooza
+James Arthur,0.0,1,Bonnaroo
+Jane Remover,0.0,1,Lollapalooza
+Japanese Breakfast,0.0,1,Coachella
+King Gizzard & The Lizard Wizard,0.0,1,Bonnaroo
+Jennie,0.0,1,Coachella
+HiTech,0.0,1,Coachella
+Keinemusik,0.0,1,Coachella
+Kaicrewsade,0.0,1,Lollapalooza
+KNOCK2,0.0,1,Lollapalooza
+Jesse Detor,0.0,1,Lollapalooza
+Jev,0.0,1,Lollapalooza
+Indira Paganotto,0.0,1,Coachella
+Jigitz,0.0,1,Lollapalooza
+La Femme,0.0,1,Lollapalooza
+Jimi Jules,0.0,1,Coachella
+Kenny Mason,0.0,1,Lollapalooza
+FKA twigs,0.0,1,Coachella
+Gustavo Dudamel & LA Phil,0.0,1,Coachella
+Boris Brejcha,0.0,1,Coachella
+BLK Odyssey,0.0,1,Lollapalooza
+Basement Jaxx,0.0,1,Coachella
+Ben Böhmer,0.0,1,Coachella
+Beth Gibbons,0.0,1,Coachella
+Big Gigantic,0.0,1,Bonnaroo
+Bladee,0.0,1,Lollapalooza
+Blonde Redhead,0.0,1,Coachella
+Bo Staloch,0.0,1,Lollapalooza
+Bob Vylan,0.0,1,Coachella
+Boynextdoor,0.0,1,Lollapalooza
+Gryffin,0.0,1,Lollapalooza
+Bree Stockwell,0.0,1,Bonnaroo
+Bôa,0.0,1,Lollapalooza
+Cage the Elephant,0.0,1,Lollapalooza
+Carol Ades,0.0,1,Lollapalooza
+Caroline Kingsbury,0.0,1,Lollapalooza
+Carter Vail,0.0,1,Lollapalooza
+Cassandra Coleman,0.0,1,Lollapalooza
+Charli XCX,0.0,1,Coachella
+Charlotte Lawrence,0.0,1,Lollapalooza
+Azzeca,0.0,1,Bonnaroo
+Avril Lavigne,0.0,1,Bonnaroo
+Austin Millz,0.0,1,Coachella
+Arca,0.0,1,Coachella
+WOKWAVILA,0.0,1,Electric Forest
+Will Clarke,0.0,1,Electric Forest
+Worship,0.0,1,Electric Forest
+Wreckno,0.0,1,Electric Forest
+Wreckno’s Big Gay Soirée,0.0,1,Electric Forest
+Zeds Dead,0.0,1,Electric Forest
+Zusha,0.0,1,Electric Forest
+4batz,0.0,1,Coachella
+A$AP Rocky,0.0,1,Lollapalooza
+A. G. Cook,0.0,1,Coachella
+ALEXSUCKS,0.0,1,Lollapalooza
+Above & Beyond,0.0,1,Coachella
+Action Bronson,0.0,1,Bonnaroo
+Alexandra Kay,0.0,1,Bonnaroo
+Aliyah’s Interlude,0.0,1,Lollapalooza
+Aly & AJ,0.0,1,Bonnaroo
+Amyl and the Sniffers,0.0,1,Coachella
+Amémé,0.0,1,Coachella
+Anitta,0.0,1,Coachella
+Chicago Made,0.0,1,Lollapalooza
+Chris Lorenzo,0.0,1,Coachella
+Chris Stussy,0.0,1,Coachella
+Effin,0.0,1,Bonnaroo
+Enhyphen,0.0,1,Coachella
+Erez,0.0,1,Coachella
+Eyedress,0.0,1,Coachella
+Layz,0.0,1,Lollapalooza
+Flatland Cavalry,0.0,1,Bonnaroo
+Flowerovlove,0.0,1,Lollapalooza
+Flux Pavilion,0.0,1,Lollapalooza
+Foster The People,0.0,1,Bonnaroo
+Foster the People,0.0,1,Lollapalooza
+Gel,0.0,1,Coachella
+Girl Tones,0.0,1,Lollapalooza
+Glixen,0.0,1,Coachella
+Goldie Boutilier,0.0,1,Bonnaroo
+Goose,0.0,1,Bonnaroo
+Gorillat,0.0,1,Bonnaroo
+Grace Bowers,0.0,1,Bonnaroo
+Graham Barham,0.0,1,Lollapalooza
+Green Day,0.0,1,Coachella
+Green Velvet,0.0,1,Bonnaroo
+El Malilla,0.0,1,Coachella
+Eddie and the Getaway,0.0,1,Lollapalooza
+Circle Jerks,0.0,1,Coachella
+Durand Bernarr,0.0,1,Lollapalooza
+Colby Acuff,0.0,1,Lollapalooza
+Cults,0.0,1,Bonnaroo
+D4vd,0.0,1,Coachella
+DJ Heather,0.0,1,Lollapalooza
+Damian Lazarus,0.0,1,Coachella
+Damiano David,0.0,1,Lollapalooza
+Daniel Donato’s Cosmic Country,0.0,1,Bonnaroo
+Darkside,0.0,1,Coachella
+Daði Freyr,0.0,1,Bonnaroo
+Del Water Gap,0.0,1,Lollapalooza
+Desiree Triplosm,0.0,1,Coachella
+Detox Unit,0.0,1,Bonnaroo
+Dispatch,0.0,1,Bonnaroo
+Dixon,0.0,1,Coachella
+Dogs in a Pile,0.0,1,Bonnaroo
+Dominic Fike,0.0,1,Lollapalooza
+Dope Lemon,0.0,1,Bonnaroo
+Dr. Fresch,0.0,1,Lollapalooza
+Dua Saleh,0.0,1,Lollapalooza
+Latin Mafia,0.0,1,Lollapalooza
+$ami,0.0,1,EDC
+Lekan,0.0,1,Lollapalooza
+Ladies of Leisure,0.0,1,Hard Summer
+Player Dave,0.0,1,Hard Summer
+STVSH,0.0,1,Hard Summer
+Sean Paul,0.0,1,Hard Summer
+Sosa,0.0,1,Hard Summer
+Trace,0.0,1,Hard Summer
+Trax Unit,0.0,1,Hard Summer
+Yamagucci,0.0,1,Hard Summer
+fun2bjane,0.0,1,Hard Summer
+pluko,0.0,1,Hard Summer
+Ahadadream,0.0,1,Lightning in a Bottle
+AndreasOne & FMLY BZNZ,0.0,1,Lightning in a Bottle
+Audrey Nuna,0.0,1,Lightning in a Bottle
+Bianca Oblivion,0.0,1,Lightning in a Bottle
+Biianço,0.0,1,Lightning in a Bottle
+Black House Radio,0.0,1,Lightning in a Bottle
+Brijean,0.0,1,Lightning in a Bottle
+Brownies & Lemonade All Stars,0.0,1,Lightning in a Bottle
+Cesco,0.0,1,Lightning in a Bottle
+Channel Tres,0.0,1,Lightning in a Bottle
+Chloé Caillet,0.0,1,Lightning in a Bottle
+DJ Karaba,0.0,1,Lightning in a Bottle
+Dimond Saints,0.0,1,Lightning in a Bottle
+Dust and Beau,0.0,1,Lightning in a Bottle
+Eli & Fur,0.0,1,Lightning in a Bottle
+EpisCool,0.0,1,Lightning in a Bottle
+Melé,0.0,1,Hard Summer
+Kaytranada,0.0,1,Hard Summer
+Yana,0.0,1,Lollapalooza
+KI/KI,0.0,1,Hard Summer
+Yo Gabba Gabba!,0.0,1,Coachella
+Youth Symphony Orchestra,0.0,1,Lollapalooza
+Yulia Niko,0.0,1,Coachella
+Zedd,0.0,1,Coachella
+Ziggy Alberts,0.0,1,Bonnaroo
+Zinadelphia,0.0,1,Lollapalooza
+Zoe Ko,0.0,1,Lollapalooza
+benches,0.0,1,Lollapalooza
+hey,0.0,1,Lollapalooza
+nothing,0.0,1,Lollapalooza
+999999999,0.0,1,Hard Summer
+AIMMIA,0.0,1,Hard Summer
+BOLO,0.0,1,Hard Summer
+BRUX,0.0,1,Hard Summer
+Blackchild,0.0,1,Hard Summer
+Busta Rhymes,0.0,1,Hard Summer
+Cromby,0.0,1,Hard Summer
+D.O.D,0.0,1,Hard Summer
+Dara Genesis,0.0,1,Hard Summer
+Deborah De Luca,0.0,1,Hard Summer
+FEID,0.0,1,Hard Summer
+Habstrakt,0.0,1,Hard Summer
+Ivarr,0.0,1,Hard Summer
+JSTJR,0.0,1,Hard Summer
+JUVENILE & The 400 Degreez Band,0.0,1,Hard Summer
+Flowdan,0.0,1,Lightning in a Bottle
+Gru.Di,0.0,1,Lightning in a Bottle
+Jaguar,0.0,1,Lightning in a Bottle
+Jo Jones,0.0,1,Lightning in a Bottle
+Car Seat Headrest,0.0,1,Governors Ball
+Conan Gray,0.0,1,Governors Ball
+Feid,0.0,1,Governors Ball
+Frost Children,0.0,1,Governors Ball
+Glasshouse,0.0,1,Governors Ball
+Jean Dawson,0.0,1,Governors Ball
+Key Glock,0.0,1,Governors Ball
+Kids Rock For Kids,0.0,1,Governors Ball
+Kyle Dion,0.0,1,Governors Ball
+MK.gee,0.0,1,Governors Ball
+Mariah The Scientist,0.0,1,Governors Ball
+Mark Amore,0.0,1,Governors Ball
+Militarie Gun,0.0,1,Governors Ball
+Monolog,0.0,1,Governors Ball
+Olivia Lunny,0.0,1,Governors Ball
+Rave,0.0,1,Governors Ball
+School of Rock New York,0.0,1,Governors Ball
+School of Rock Queens,0.0,1,Governors Ball
+Snow Wife,0.0,1,Governors Ball
+Stolen Gin,0.0,1,Governors Ball
+Strawberry Launch,0.0,1,Governors Ball
+The Backfires,0.0,1,Governors Ball
+The Backseat Lovers,0.0,1,Governors Ball
+The Garden,0.0,1,Governors Ball
+The Japanese House,0.0,1,Governors Ball
+Berlioz,0.0,1,Governors Ball
+Yaw Appiah,0.0,1,Lightning in a Bottle
+VNSSA & Nala,0.0,1,Lightning in a Bottle
+Rafael,0.0,1,Lightning in a Bottle
+Jojo,0.0,1,Lightning in a Bottle
+Just Her,0.0,1,Lightning in a Bottle
+Kiasmos,0.0,1,Lightning in a Bottle
+Kingsprngs,0.0,1,Lightning in a Bottle
+Kito,0.0,1,Lightning in a Bottle
+Leisan,0.0,1,Lightning in a Bottle
+MNTRA,0.0,1,Lightning in a Bottle
+Mira,0.0,1,Lightning in a Bottle
+Monolink,0.0,1,Lightning in a Bottle
+O’Snap,0.0,1,Lightning in a Bottle
+Priya Ragu,0.0,1,Lightning in a Bottle
+Reyna Tropical,0.0,1,Lightning in a Bottle
+Underworld,0.0,1,Lightning in a Bottle
+Sama’ Abdulhadi,0.0,1,Lightning in a Bottle
+Shygirl,0.0,1,Lightning in a Bottle
+Sicaria,0.0,1,Lightning in a Bottle
+Sofia Kourtesis,0.0,1,Lightning in a Bottle
+Subtronics,0.0,1,Lightning in a Bottle
+Sultan + Shepard,0.0,1,Lightning in a Bottle
+Syreeta,0.0,1,Lightning in a Bottle
+Taiki Nulight,0.0,1,Lightning in a Bottle
+The Librarian,0.0,1,Lightning in a Bottle
+Tinzo,0.0,1,Lightning in a Bottle
+TroyBoi,0.0,1,Lightning in a Bottle
+Yeat,0.0,1,Coachella
+Xdinary Heroes,0.0,1,Lollapalooza
+Leon Thomas,0.0,1,Bonnaroo
+Nothing,0.0,1,Bonnaroo
+Old Mervs,0.0,1,Lollapalooza
+Ole 60,0.0,1,Lollapalooza
+Otoboke Beaver,0.0,1,Lollapalooza
+TurboVCTRE,0.0,1,Electric Forest
+Parcels,0.0,1,Coachella
+Parisi,0.0,1,Coachella
+People R Ugly,0.0,1,Lollapalooza
+Pete Tong,0.0,1,Coachella
+Polo & Pan,0.0,1,Coachella
+Post Malone,0.0,1,Coachella
+Prison Affair,0.0,1,Coachella
+Queens of the Stone Age,0.0,1,Bonnaroo
+Rachel Chinouriri,0.0,1,Bonnaroo
+Rachel Grae,0.0,1,Lollapalooza
+Raecola,0.0,1,Lollapalooza
+Rainbow Kitten Surprise,0.0,1,Bonnaroo
+Ratboys,0.0,1,Lollapalooza
+Rawayana,0.0,1,Coachella
+Raye,0.0,1,Bonnaroo
+Rema,0.0,1,Coachella
+Rossy,0.0,1,Bonnaroo
+Rufus Du Sol,0.0,1,Lollapalooza
+Sabrina Carpenter,0.0,1,Lollapalooza
+Saint Jhn,0.0,1,Coachella
+Saint Motel,0.0,1,Bonnaroo
+Ocean Alley,0.0,1,Lollapalooza
+New Dad,0.0,1,Lollapalooza
+Xaviersobased,0.0,1,Lollapalooza
+Nelly,0.0,1,Bonnaroo
+Lisa,0.0,1,Coachella
+Lola Young,0.0,1,Coachella
+Los Mirlos,0.0,1,Coachella
+Lszee,0.0,1,Bonnaroo
+MJ Lenderman,0.0,1,Bonnaroo
+Marcus King,0.0,1,Bonnaroo
+Mariah the Scientist,0.0,1,Lollapalooza
+Massano,0.0,1,Coachella
+Max McNown,0.0,1,Lollapalooza
+Medium Build,0.0,1,Coachella
+Megadeth,0.0,1,Bonnaroo
+Megan Thee Stallion,0.0,1,Coachella
+Meute,0.0,1,Coachella
+Miike Snow,0.0,1,Coachella
+Mind Against,0.0,1,Coachella
+Missy Elliott,0.0,1,Coachella
+Mk.gee,0.0,1,Lollapalooza
+Modest Mouse,0.0,1,Bonnaroo
+Mohamed Ramadan,0.0,1,Coachella
+Moon Boots,0.0,1,Coachella
+Muni Long,0.0,1,Coachella
+Murda Beatz,0.0,1,Lollapalooza
+Mustard,0.0,1,Coachella
+Naomi Scott,0.0,1,Lollapalooza
+Natasha Bedingfield,0.0,1,Bonnaroo
+Sam Austins,0.0,1,Lollapalooza
+Sam Fender,0.0,1,Coachella
+Seun Kuti & Egypt 80,0.0,1,Coachella
+Shaboozey,0.0,1,Coachella
+The Stews,0.0,1,Bonnaroo
+The Symposium,0.0,1,Lollapalooza
+Thee Sacred Souls,0.0,1,Coachella
+Three 6 Mafia,0.0,1,Coachella
+Tink,0.0,1,Coachella
+Tipper,0.0,1,Bonnaroo
+Together Pangea,0.0,1,Coachella
+Tops,0.0,1,Coachella
+Travis Scott,0.0,1,Coachella
+Treaty Oak Revival,0.0,1,Bonnaroo
+Tripolism,0.0,1,Coachella
+Two Friends,0.0,1,Lollapalooza
+Ty Dolla $ign,0.0,1,Coachella
+Underscores,0.0,1,Coachella
+VTSS,0.0,1,Coachella
+Viagra Boys,0.0,1,Coachella
+Vs Self,0.0,1,Coachella
+What So Not,0.0,1,Bonnaroo
+Wild Rivers,0.0,1,Lollapalooza
+Wilderado,0.0,1,Bonnaroo
+Willow Avalon,0.0,1,Lollapalooza
+Winnetka Bowling League,0.0,1,Lollapalooza
+Winyah,0.0,1,Lollapalooza
+Wyatt Flores,0.0,1,Lollapalooza
+XG,0.0,1,Coachella
+The Sinses & The Altons,0.0,1,Bonnaroo
+The Red Clay Strays,0.0,1,Bonnaroo
+The Prodigy,0.0,1,Coachella
+Star Bandz,0.0,1,Lollapalooza
+Shermanology,0.0,1,Coachella
+Shoreline Mafia,0.0,1,Coachella
+Sierra Ferrell,0.0,1,Lollapalooza
+Silly Goose,0.0,1,Lollapalooza
+Slightly Stoopid,0.0,1,Bonnaroo
+Snow Strippers,0.0,1,Coachella
+Sofia Camara,0.0,1,Lollapalooza
+Sofia Isella,0.0,1,Bonnaroo
+Soft Play,0.0,1,Coachella
+Sparrow & Barbossa,0.0,1,Coachella
+Speed,0.0,1,Coachella
+Sunami,0.0,1,Lollapalooza
+The Original Misfits,0.0,1,Coachella
+TWICE,0.0,1,Lollapalooza
+Talón,0.0,1,Coachella
+Tanner Adell,0.0,1,Lollapalooza
+Tessla,0.0,1,Lollapalooza
+The Criticals,0.0,1,Lollapalooza
+The Dropines,0.0,1,Bonnaroo
+The Droptines,0.0,1,Lollapalooza
+The Go-Gos,0.0,1,Coachella
+The Hodge Podge,0.0,1,Bonnaroo
+The Mariás,0.0,1,Coachella
+The Marías,0.0,1,Lollapalooza
+Veil,0.0,1,Electric Forest
+CVBZ,0.0,1,Electric Forest
+Tractorbeam,0.0,1,Electric Forest
+Lil Texas,0.0,1,EDC
+Kaskade,0.0,1,EDC
+Kaysin,0.0,1,EDC
+Kenzii Scott,0.0,1,EDC
+Kian,0.0,1,EDC
+KidMaverick,0.0,1,EDC
+Kieran San Jose,0.0,1,EDC
+Kitty Amor,0.0,1,EDC
+Kompany,0.0,1,EDC
+Korolova,0.0,1,EDC
+Ky William,0.0,1,EDC
+Kyle Watson,0.0,1,EDC
+LAYZ,0.0,1,EDC
+LF SYSTEM,0.0,1,EDC
+LUMBERJVCK,0.0,1,EDC
+Lady Faith,0.0,1,EDC
+Lady Sinclair,0.0,1,EDC
+Lake Hills,0.0,1,EDC
+Larry Loud,0.0,1,EDC
+Laura van Dam,0.0,1,EDC
+Lauren Mia,0.0,1,EDC
+Lavern,0.0,1,EDC
+Le Youth,0.0,1,EDC
+Level Up,0.0,1,EDC
+Kasango,0.0,1,EDC
+KROMI,0.0,1,EDC
+KARABA,0.0,1,EDC
+Haylee Wood,0.0,1,EDC
+Gaia,0.0,1,EDC
+Girl Math (VNSSA,0.0,1,EDC
+Goshfather,0.0,1,EDC
+Greg Mike,0.0,1,EDC
+HANZ,0.0,1,EDC
+HUGEL,0.0,1,EDC
+HUMAN404,0.0,1,EDC
+Hannah Laing,0.0,1,EDC
+Harristone,0.0,1,EDC
+Harvard Bass,0.0,1,EDC
+Hedex,0.0,1,EDC
+KAMI,0.0,1,EDC
+Horichh,0.0,1,EDC
+Hot Since 82,0.0,1,EDC
+INIGMA,0.0,1,EDC
+INVT,0.0,1,EDC
+ISOKNOCK,0.0,1,EDC
+Illenium,0.0,1,EDC
+Jackie Hollander,0.0,1,EDC
+Jessica Audiffred,0.0,1,EDC
+Josh Baker,0.0,1,EDC
+K.Gianni,0.0,1,EDC
+Levenkhan,0.0,1,EDC
+Linney,0.0,1,EDC
+G2AR,0.0,1,EDC
+Lizdek,0.0,1,EDC
+Mr. Brooks,0.0,1,EDC
+Myles O'Neal,0.0,1,EDC
+NEKTER,0.0,1,EDC
+NGHTMRE,0.0,1,EDC
+Nala),0.0,1,EDC
+Neon Deluz,0.0,1,EDC
+Netsky,0.0,1,EDC
+Nils Hoffmann,0.0,1,EDC
+Noizu,0.0,1,EDC
+Nora En Pure,0.0,1,EDC
+OGUZ,0.0,1,EDC
+OMNOM,0.0,1,EDC
+OMRI,0.0,1,EDC
+Odd Language,0.0,1,EDC
+Odd Mob,0.0,1,EDC
+Oddly Godly,0.0,1,EDC
+Omiki,0.0,1,EDC
+One Tribe Presents (AMÉMÉ,0.0,1,EDC
+Onlynumbers,0.0,1,EDC
+Oppidan,0.0,1,EDC
+PARTY DADS,0.0,1,EDC
+PLS&TY,0.0,1,EDC
+Pablo Bozzi,0.0,1,EDC
+Moonlght,0.0,1,EDC
+Miyuki,0.0,1,EDC
+Miss Monique,0.0,1,EDC
+Malcolm Zeller,0.0,1,EDC
+Loco & Jam,0.0,1,EDC
+Lostly,0.0,1,EDC
+Loud Luxury,0.0,1,EDC
+Lucky Lou,0.0,1,EDC
+MCR-T,0.0,1,EDC
+MORTEN,0.0,1,EDC
+MPH,0.0,1,EDC
+MRD,0.0,1,EDC
+Maddix,0.0,1,EDC
+Malaa,0.0,1,EDC
+Malixe,0.0,1,EDC
+Mish,0.0,1,EDC
+Marc V,0.0,1,EDC
+Marianna Hadad,0.0,1,EDC
+Marie Vaunt,0.0,1,EDC
+Masha Mar,0.0,1,EDC
+Matroda,0.0,1,EDC
+Matt Faulk,0.0,1,EDC
+Mattilo,0.0,1,EDC
+Meduza,0.0,1,EDC
+Meedy,0.0,1,EDC
+Mer Bear,0.0,1,EDC
+GUDFELLA,0.0,1,EDC
+Fury with MC Dino,0.0,1,EDC
+Partiboi69,0.0,1,EDC
+Bunny,0.0,1,EDC
+Armin van Buuren,0.0,1,EDC
+Assembly,0.0,1,EDC
+Avalon,0.0,1,EDC
+Avi Snow,0.0,1,EDC
+BACKCOURT,0.0,1,EDC
+BIIA,0.0,1,EDC
+BRDWY,0.0,1,EDC
+Baggi,0.0,1,EDC
+Baron),0.0,1,EDC
+Basstripper,0.0,1,EDC
+Basswell,0.0,1,EDC
+Ben Hemsley,0.0,1,EDC
+Ben Nicky,0.0,1,EDC
+Bicep,0.0,1,EDC
+Big Daddy Kess,0.0,1,EDC
+Billy Gillies,0.0,1,EDC
+Biscits,0.0,1,EDC
+Black Tiger Sex Machine,0.0,1,EDC
+Bo Knows,0.0,1,EDC
+Boizy,0.0,1,EDC
+Bones,0.0,1,EDC
+Bontan,0.0,1,EDC
+Boys Noize,0.0,1,EDC
+Armand Van Helden,0.0,1,EDC
+Argy,0.0,1,EDC
+Apashe,0.0,1,EDC
+Afrojack,0.0,1,EDC
+6ejou,0.0,1,EDC
+AMÉMÉ,0.0,1,EDC
+ANATTA,0.0,1,EDC
+ANGEL CANNON,0.0,1,EDC
+AQUTIE,0.0,1,EDC
+ARODES,0.0,1,EDC
+ARTBAT,0.0,1,EDC
+AYYBO,0.0,1,EDC
+Adrenalize,0.0,1,EDC
+AfroMantis Collective,0.0,1,EDC
+Airrica,0.0,1,EDC
+Anoluxx,0.0,1,EDC
+Alcala Bros,0.0,1,EDC
+Alesso,0.0,1,EDC
+Alison Wonderland,0.0,1,EDC
+Allenora,0.0,1,EDC
+Alves,0.0,1,EDC
+Amal Nemer,0.0,1,EDC
+Andre Power,0.0,1,EDC
+Andromedik,0.0,1,EDC
+Andy C,0.0,1,EDC
+AniMe,0.0,1,EDC
+Brutalismus 3000,0.0,1,EDC
+CELO,0.0,1,EDC
+Excision,0.0,1,EDC
+CHAMP FRESNEL,0.0,1,EDC
+DJ Snake,0.0,1,EDC
+DRINKURWATER,0.0,1,EDC
+DRĖĖĖMY,0.0,1,EDC
+Da Capo,0.0,1,EDC
+Da Tweekaz,0.0,1,EDC
+Damon Sharpe,0.0,1,EDC
+Danny Avila,0.0,1,EDC
+Darren Styles,0.0,1,EDC
+David Forbes,0.0,1,EDC
+David Rust,0.0,1,EDC
+Dea Magna,0.0,1,EDC
+Dead X,0.0,1,EDC
+Devin Wild,0.0,1,EDC
+Disco Dom,0.0,1,EDC
+Discrete,0.0,1,EDC
+Distinct Motive,0.0,1,EDC
+Doozie,0.0,1,EDC
+Dual Damage,0.0,1,EDC
+Dylan Brady,0.0,1,EDC
+Elephante,0.0,1,EDC
+Eli Fola,0.0,1,EDC
+Emo Nite,0.0,1,EDC
+Eric Prydz,0.0,1,EDC
+DJ Slim McGraw,0.0,1,EDC
+DJ Lag,0.0,1,EDC
+DJ Fuckoff,0.0,1,EDC
+Charlotte de Witte,0.0,1,EDC
+CHYL,0.0,1,EDC
+CUTDWN,0.0,1,EDC
+Caleb Dent,0.0,1,EDC
+Calussa,0.0,1,EDC
+Caravel,0.0,1,EDC
+Carlita,0.0,1,EDC
+Caspa,0.0,1,EDC
+Cato Anaya,0.0,1,EDC
+Cera Khin,0.0,1,EDC
+Champion,0.0,1,EDC
+Chris Avantgarde,0.0,1,EDC
+DEE/MAD,0.0,1,EDC
+Clara Cuvé,0.0,1,EDC
+Classmatic,0.0,1,EDC
+Clawz,0.0,1,EDC
+Code Black,0.0,1,EDC
+Cole Knight,0.0,1,EDC
+Corey Biggs,0.0,1,EDC
+Cosmic Gate,0.0,1,EDC
+Country Night,0.0,1,EDC
+D-Sturb,0.0,1,EDC
+DEATH CODE,0.0,1,EDC
+Papa Lu,0.0,1,EDC
+Paul Oakenfold,0.0,1,EDC
+The String Cheese Incident,0.0,1,Electric Forest
+Cydeway,0.0,1,Electric Forest
+Sarah Kinsley,0.0,1,Outside Lands
+"The Army, The Navy",0.0,1,Outside Lands
+Thundercat,0.0,1,Outside Lands
+TxC,0.0,1,Outside Lands
+Vansire,0.0,1,Outside Lands
+199133,0.0,1,Electric Forest
+Alex Wann,0.0,1,Electric Forest
+Ametti,0.0,1,Electric Forest
+Arc De Soleil,0.0,1,Electric Forest
+Arushi Jain,0.0,1,Electric Forest
+Austeria,0.0,1,Electric Forest
+Avalon Emerson,0.0,1,Electric Forest
+BALTHVS,0.0,1,Electric Forest
+BAMBI,0.0,1,Electric Forest
+BBNO$,0.0,1,Electric Forest
+Basstriper,0.0,1,Electric Forest
+Below,0.0,1,Electric Forest
+Bianco,0.0,1,Electric Forest
+Blap,0.0,1,Electric Forest
+Brandi Cyrus,0.0,1,Electric Forest
+33 Below,0.0,1,EDC
+Caribou,0.0,1,Electric Forest
+Confidence Man,0.0,1,Electric Forest
+Paco Versailles,0.0,1,Outside Lands
+NewDad,0.0,1,Outside Lands
+Neal Francis,0.0,1,Outside Lands
+Infinite Jess,0.0,1,Outside Lands
+Bakar,0.0,1,Outside Lands
+Bay Ledges,0.0,1,Outside Lands
+Big Freedia,0.0,1,Outside Lands
+Black Coffee,0.0,1,Outside Lands
+DJ Koze,0.0,1,Outside Lands
+DJ Mandy,0.0,1,Outside Lands
+DJ Pee .Wee,0.0,1,Outside Lands
+Doja Cat,0.0,1,Outside Lands
+Good Neighbours,0.0,1,Outside Lands
+INJI,0.0,1,Outside Lands
+Jessica Pratt,0.0,1,Outside Lands
+Naomi Sharon,0.0,1,Outside Lands
+Jorja Smith,0.0,1,Outside Lands
+Julien Baker & TORRES,0.0,1,Outside Lands
+Kate Bollinger,0.0,1,Outside Lands
+Klangphonics,0.0,1,Outside Lands
+LaRussell,0.0,1,Outside Lands
+Ludacris,0.0,1,Outside Lands
+Luna Li,0.0,1,Outside Lands
+Mayer Hawthorne,0.0,1,Outside Lands
+Midrift,0.0,1,Outside Lands
+NOTION,0.0,1,Outside Lands
+Culture Shock,0.0,1,Electric Forest
+DJ Brownie,0.0,1,Electric Forest
+BANKS,0.0,1,Outside Lands
+DJ Heartstring,0.0,1,Electric Forest
+Mindchatter,0.0,1,Electric Forest
+Moody Good,0.0,1,Electric Forest
+NASAYA,0.0,1,Electric Forest
+Nia Archives,0.0,1,Electric Forest
+Notion,0.0,1,Electric Forest
+Pretty Pink,0.0,1,Electric Forest
+ROIR,0.0,1,Electric Forest
+SAY SHE SHE,0.0,1,Electric Forest
+SHIMA,0.0,1,Electric Forest
+SOTA,0.0,1,Electric Forest
+SUN,0.0,1,Electric Forest
+Saxsquatch,0.0,1,Electric Forest
+Seth David,0.0,1,Electric Forest
+Smokeland,0.0,1,Electric Forest
+Sponee,0.0,1,Electric Forest
+Sub Focus,0.0,1,Electric Forest
+Sunsquabi,0.0,1,Electric Forest
+Taahliah,0.0,1,Electric Forest
+Taki Nulight,0.0,1,Electric Forest
+The Free Label,0.0,1,Electric Forest
+The Knocks & Dragonette,0.0,1,Electric Forest
+The Philharmonik,0.0,1,Electric Forest
+The Strike,0.0,1,Electric Forest
+Mike McGarity,0.0,1,Electric Forest
+Main Phase,0.0,1,Electric Forest
+Lumasi,0.0,1,Electric Forest
+Harry,0.0,1,Electric Forest
+DJ SNPHX,0.0,1,Electric Forest
+Daphni,0.0,1,Electric Forest
+Disclosure,0.0,1,Electric Forest
+Dixon’s Violin,0.0,1,Electric Forest
+Dogtags,0.0,1,Electric Forest
+Esseks,0.0,1,Electric Forest
+Evening Elephants,0.0,1,Electric Forest
+GASHI,0.0,1,Electric Forest
+GorillATH,0.0,1,Electric Forest
+Halfcab,0.0,1,Electric Forest
+Haute & Freddy,0.0,1,Electric Forest
+Lowdown Brass Band,0.0,1,Electric Forest
+Hayla,0.0,1,Electric Forest
+Hypemelo,0.0,1,Electric Forest
+It's BP,0.0,1,Electric Forest
+Jerro,0.0,1,Electric Forest
+LOE,0.0,1,Electric Forest
+LOODS,0.0,1,Electric Forest
+Lilly Palmer,0.0,1,Electric Forest
+Loofy,0.0,1,Electric Forest
+Loolo,0.0,1,Electric Forest
+Louis The Child,0.0,1,Electric Forest
+Baalti,0.0,1,Outside Lands
+Arcy Drive,0.0,1,Outside Lands
+Pinke,0.0,1,EDC
+Sullivan King,0.0,1,EDC
+Samplifire,0.0,1,EDC
+Sarah de Warren,0.0,1,EDC
+Sarz,0.0,1,EDC
+Selective Response,0.0,1,EDC
+Shaded,0.0,1,EDC
+Shades,0.0,1,EDC
+Shlømo,0.0,1,EDC
+Showtek,0.0,1,EDC
+Sihk,0.0,1,EDC
+Silcrow,0.0,1,EDC
+Silver Panda,0.0,1,EDC
+Simula,0.0,1,EDC
+Skepta Más Tiempo,0.0,1,EDC
+Skream,0.0,1,EDC
+Slugg,0.0,1,EDC
+Soothslayer,0.0,1,EDC
+Sota,0.0,1,EDC
+Soul Purpose,0.0,1,EDC
+Space 92,0.0,1,EDC
+Special Guest,0.0,1,EDC
+Stedicam,0.0,1,EDC
+Steller,0.0,1,EDC
+Stoley,0.0,1,EDC
+Sam Blacky,0.0,1,EDC
+Sam Binga,0.0,1,EDC
+Sabrosura Boyz,0.0,1,EDC
+Rezz,0.0,1,EDC
+Pizzi,0.0,1,EDC
+Popof present: Turbulences,0.0,1,EDC
+Pryda,0.0,1,EDC
+Quality GRa,0.0,1,EDC
+RZRKT,0.0,1,EDC
+RaeCola,0.0,1,EDC
+RayRay,0.0,1,EDC
+Recess,0.0,1,EDC
+Restricted,0.0,1,EDC
+Reza,0.0,1,EDC
+Ricky Retro,0.0,1,EDC
+SOREN,0.0,1,EDC
+Riot Ten,0.0,1,EDC
+Roadhouse,0.0,1,EDC
+Rollz Royce,0.0,1,EDC
+Rooler,0.0,1,EDC
+Rossi,0.0,1,EDC
+Roxy Ferrari,0.0,1,EDC
+Rudim3ntal,0.0,1,EDC
+Rusko,0.0,1,EDC
+SIDEPIECE,0.0,1,EDC
+SLANDER,0.0,1,EDC
+Sub Zero Project,0.0,1,EDC
+Svdden Death,0.0,1,EDC
+Anderson .Paak & The Free Nationals,0.0,1,Outside Lands
+Svdden Death: VOYD,0.0,1,EDC
+X CLUB,0.0,1,EDC
+Xandra,0.0,1,EDC
+Yellow Claw,0.0,1,EDC
+Yoji Biomehanika,0.0,1,EDC
+Yosuf,0.0,1,EDC
+Zevy,0.0,1,EDC
+arman,0.0,1,EDC
+blklght,0.0,1,EDC
+ena,0.0,1,EDC
+horsegiirL,0.0,1,EDC
+simfonik,0.0,1,EDC
+sosa,0.0,1,EDC
+southstar,0.0,1,EDC
+veggi,0.0,1,EDC
+wes mills,0.0,1,EDC
+€URO TRA$H,0.0,1,EDC
+&friends,0.0,1,Outside Lands
+ATRIP,0.0,1,Outside Lands
+AVATARIB,0.0,1,Outside Lands
+Alex Amen,0.0,1,Outside Lands
+Alexandra Savior,0.0,1,Outside Lands
+Almost Monday,0.0,1,Outside Lands
+Amelia Moore,0.0,1,Outside Lands
+Willie Pake,0.0,1,EDC
+Water Spirit,0.0,1,EDC
+Ward Andrews,0.0,1,EDC
+Tim Clark,0.0,1,EDC
+Synnhaven,0.0,1,EDC
+TDJ,0.0,1,EDC
+TOKiMONSTA,0.0,1,EDC
+TRICKSTAR,0.0,1,EDC
+TWENTY SIX,0.0,1,EDC
+Taylor Kade,0.0,1,EDC
+Tchami,0.0,1,EDC
+Tha Funk Junkie,0.0,1,EDC
+The Archer,0.0,1,EDC
+The Martinez Brothers,0.0,1,EDC
+Tim Underscore,0.0,1,EDC
+Vini Vici,0.0,1,EDC
+Trance Wax,0.0,1,EDC
+Tripps,0.0,1,EDC
+Trivecta,0.0,1,EDC
+Trouble,0.0,1,EDC
+Truth,0.0,1,EDC
+Uncle Waffles,0.0,1,EDC
+VARI,0.0,1,EDC
+VAVO,0.0,1,EDC
+Vastive,0.0,1,EDC
+Victor Ruiz,0.0,1,EDC
+VAVÁ,0.0,1,Governors Ball

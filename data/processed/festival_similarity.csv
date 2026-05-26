@@ -1,0 +1,37 @@
+festival_a,festival_b,shared_artists,total_unique_artists,similarity_score
+Lollapalooza,Outside Lands,32,235,13.62
+Bonnaroo,Governors Ball,18,152,11.84
+Governors Ball,Outside Lands,14,140,10.0
+Governors Ball,Lollapalooza,21,214,9.81
+Bonnaroo,Outside Lands,16,186,8.6
+Bonnaroo,Lollapalooza,22,261,8.43
+EDC,Hard Summer,35,427,8.2
+EDC,Electric Forest,31,481,6.44
+Coachella,Lollapalooza,19,306,6.21
+Electric Forest,Hard Summer,11,191,5.76
+Hard Summer,Lightning in a Bottle,8,140,5.71
+Hard Summer,Lollapalooza,12,238,5.04
+Bonnaroo,Electric Forest,11,224,4.91
+Coachella,Governors Ball,9,203,4.43
+Coachella,Outside Lands,10,234,4.27
+Bonnaroo,Coachella,9,251,3.59
+Lightning in a Bottle,Lollapalooza,8,238,3.36
+Coachella,Lightning in a Bottle,7,216,3.24
+Lightning in a Bottle,Outside Lands,5,160,3.12
+Coachella,EDC,16,521,3.07
+Electric Forest,Outside Lands,6,213,2.82
+Bonnaroo,Hard Summer,5,180,2.78
+Electric Forest,Lollapalooza,8,292,2.74
+Electric Forest,Lightning in a Bottle,5,193,2.59
+EDC,Lollapalooza,14,546,2.56
+Bonnaroo,EDC,12,483,2.48
+Hard Summer,Outside Lands,4,165,2.42
+Bonnaroo,Lightning in a Bottle,4,177,2.26
+Coachella,Electric Forest,6,271,2.21
+EDC,Outside Lands,7,472,1.48
+Coachella,Hard Summer,3,224,1.34
+EDC,Lightning in a Bottle,4,454,0.88
+Governors Ball,Lightning in a Bottle,1,132,0.76
+Electric Forest,Governors Ball,1,186,0.54
+EDC,Governors Ball,0,447,0.0
+Governors Ball,Hard Summer,0,137,0.0
