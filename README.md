@@ -64,7 +64,7 @@ I also created a festival similarity heatmap to show lineup overlap across all f
 
 ### Artist Network, Minimum Coappearance Threshold of 3
 
-![Artist Network Threshold 3](visuals/artist_network_threshold_3.png)
+![Artist Network Threshold 3](visuals/artist_network_threshold_3(1).png)
 
 ### Festival Similarity Heatmap
 
